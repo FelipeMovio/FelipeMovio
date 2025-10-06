@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou Felipe, resido em Piracicaba/SP. Sou estudante de Engenharia de Software e estou começando a minha carreira na área de TI.<br>Desenvolvedor com preferencia em Back-End com conhecimentos nas tecnologias Java, Spring Boot, API REST, Banco de Dados. Porem também tenho noções com Front-End em tecnologias como HTML, CSS,<br>JavaScript, Tailwind, React. Fazendo uso destas tecnologias em projetos pessoais.<br><br>Hard Skills: Experiência com HTML, CSS, Tailwind, JavaScript, React, Java, Spring Boot, APIs.<br><br>Soft Skills: Trabalho bem em equipe, sempre tentando ser atento aos detalhes, observador, buscando sempre aprender e evoluir, quanto mais desafiador melhor.<br><br>Estou em busca de uma vaga de estagio para dar inicio na minha carreira na área de tecnologia, e mostrar todas as minhas habilidades e capacidades.
+Olá, sou Felipe, resido em Piracicaba/SP. Sou estudante de Engenharia de Software e estou começando a minha carreira na área de TI.
 
 
 ## 🌐 Socials:
